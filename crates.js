@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["equivalent","libfprint_rs","unicode_ident"];
+window.ALL_CRATES = ["libfprint_rs"];
