@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FpFinger"],"struct":["Cancellable","FpContext","FpDevice","FpImage","FpPrint","GDate","GError"],"trait":["CancellableExt"],"type":["FpEnrollProgress","FpMatchCb"]};
