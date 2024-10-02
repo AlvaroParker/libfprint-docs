@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"libfprint_rs":[["impl IsA&lt;InitiallyUnowned&gt; for <a class=\"struct\" href=\"libfprint_rs/struct.FpPrint.html\" title=\"struct libfprint_rs::FpPrint\">FpPrint</a>"],["impl IsA&lt;AsyncInitable&gt; for <a class=\"struct\" href=\"libfprint_rs/struct.FpDevice.html\" title=\"struct libfprint_rs::FpDevice\">FpDevice</a>"]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
